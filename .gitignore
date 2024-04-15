@@ -1,0 +1,15 @@
+*.old
+*.aux
+*.log
+*.dvi
+*.pdf
+*.tex
+
+*.out
+*___model_SnapShot*.launch
+states/
+model/
+
+.vscode
+**/.DS_Store
+**/*~
